@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    font-family: sans-serif;
+    list-style-type: none;
+    text-decoration: none;
+}
+.curriculo{
+    width: 60%;
+    margin: 0 auto;
+    height: 800px;
+}
+.cabecalho{
+    padding: 20px;
+}
+.objetivos{
+    padding: 20px;
+}
+.competencias{
+    padding: 20px;
+}
+.experiencias{
+    padding: 20px;
+}
+.idiomas{
+    padding: 20px;
+}
+h2, h1{
+    padding: 10px;
+}
+p{
+    text-align: justify;
+}

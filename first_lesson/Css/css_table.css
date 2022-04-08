@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    margin:20px;
+}
+.tabela{
+    width: 50%;
+    margin: 0 auto;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 2px;  
+}
+tr:nth-child(even) {
+    background-color: rgb(207, 201, 201)
+}
+h1{
+    text-align: center;
+    padding: 20px;
+}

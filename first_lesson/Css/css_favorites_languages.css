@@ -1,0 +1,45 @@
+*{
+    list-style:none;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Viga', sans-serif;
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+}
+.figures{
+    display:flex;
+    justify-content:center;
+}
+.texto{
+    width:65%;
+    margin:0 auto;
+    text-align:justify;
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+}
+.fim{
+    text-align: center;
+    width:50%;
+    margin:0 auto;
+}
+a{
+    text-decoration: none;
+    color: purple;
+    transition: linear 0.4s;
+    padding: 3px;
+    color: white;
+}
+a:hover{
+    background-color: white;
+    color:black;
+    border-radius: 8px;
+}
+p{
+    color: white;
+    background: black;
+    padding: 18px;
+    border-radius: 20px;
+}
